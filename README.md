@@ -1,3 +1,7 @@
+> **⚠️ Warning (05-15-2025):** Amazon API Gateway is now listed by AWS as a prohibited service for outbound penetration testing.  
+> Using Amazon API Gateway endpoints for penetration testing may be considered abuse.  
+> See [AWS Penetration Testing Policy](https://aws.amazon.com/security/penetration-testing/).
+
 # IPRotate_Burp_Extension
 
 Extension for Burp Suite which uses AWS API Gateway to change your IP on every request.
